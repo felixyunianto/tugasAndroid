@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SistemOperasiLinux</string>
+    <string name="linux">Nama OS Linux</string>
+    <string name="detail">Detail OS Linux</string>
+    <string name="pengertian">Pengertian</string>
+    <string name="nama_linux">Nama Linux</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="about">About</string>
+</resources>
